@@ -1,15 +1,5 @@
 # JavaScript Coding Practice
 
-> *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
-
-<br/>
-
-## Related Topics
-
-* *[JavaScript Program Writing](program-writing.md)*
-
-<br/>
-
 ## Table of Contents
 
 * [Variables](#-variables)
